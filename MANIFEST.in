@@ -1,3 +1,3 @@
 recursive-include tw2/etc/templates *
 recursive-include tw2/etc/static *
-README.rst
+include README.rst
