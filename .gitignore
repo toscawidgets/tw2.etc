@@ -3,6 +3,7 @@ syntax: glob
 
 *.egg-info
 .coverage
+htmlcov
 *.pyc
 *~
 *.swp
