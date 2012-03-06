@@ -6,7 +6,7 @@ setup(
     description='Random extra widgets for ToscaWidgets 2.',
     long_description = open('README.rst').read().split('.. split here', 1)[1],
     author='Ralph Bean',
-    author_email='ralph.bean@gmail.com',
+    author_email='rbean@redhat.com',
     url='http://toscawidgets.org/docs/tw2.core/',
     install_requires=[
         "tw2.core>=2.0b4",
