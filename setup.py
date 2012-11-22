@@ -7,7 +7,7 @@ setup(
     long_description = open('README.rst').read().split('.. split here', 1)[1],
     author='Ralph Bean',
     author_email='rbean@redhat.com',
-    url='http://toscawidgets.org/docs/tw2.core/',
+    url='https://github.com/toscawidgets/tw2.etc',
     install_requires=[
         "tw2.core>=2.0b4",
         ],
