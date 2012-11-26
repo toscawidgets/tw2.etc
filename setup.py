@@ -2,12 +2,12 @@ from setuptools import setup, find_packages
 
 setup(
     name='tw2.etc',
-    version='2.0a3',
+    version='2.1.0',
     description='Random extra widgets for ToscaWidgets 2.',
     long_description = open('README.rst').read().split('.. split here', 1)[1],
     author='Ralph Bean',
     author_email='rbean@redhat.com',
-    url='http://toscawidgets.org/docs/tw2.core/',
+    url='https://github.com/toscawidgets/tw2.etc',
     install_requires=[
         "tw2.core>=2.0b4",
         ],
