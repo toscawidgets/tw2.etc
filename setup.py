@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='tw2.etc',
-    version='2.0a3',
+    version='2.1.0',
     description='Random extra widgets for ToscaWidgets 2.',
     long_description = open('README.rst').read().split('.. split here', 1)[1],
     author='Ralph Bean',
